@@ -1,5 +1,6 @@
 const projectFiles = [
   "/content/projects/project-01.json"
+  "/content/projects/project-02.json"
 ];
 
 async function loadProjects() {
