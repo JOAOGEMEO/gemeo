@@ -1,1 +1,3 @@
-
+const projectFiles = [
+  "/content/projects/project-01.json"
+];
