@@ -1,9 +1,9 @@
-{
-  "title": "Showreel 2025",
-  "category": "Commercial",
-  "client": "Personal Project",
+  {
+  "title": "GEMEO Showreel",
+  "category": "Showreel",
+  "client": "GEMEO",
   "year": 2025,
   "thumbnail": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4",
-  "video": "https://vimeo.com/123456789",
-  "description": "A cinematic collection of my best work."
+  "video": "https://vimeo.com/gemeo",
+  "description": "Selected cinematography, FPV and visual storytelling projects."
 }
